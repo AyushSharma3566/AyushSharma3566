@@ -30,6 +30,9 @@ class AyushSharma():
 if __name__ == '__main__':
     me = AyushSharma()
 ```
+## See me at:
+<a href="https://www.codechef.com/users/ayush3566"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
+<br> <br>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
