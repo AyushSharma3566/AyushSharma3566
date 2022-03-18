@@ -2,7 +2,7 @@
   <b>Ayush Sharma</b>
 </h1>
 
-Heya! I'm Ayush Sharma, A Sophomore student currently pursuing B.TECH from GLA University Mathura, India 🇮🇳
+Heya! I'm Ayush Sharma, A Sophomore student currently pursuing B.TECH from GLA University Mathura, India ❤️
 
 <br>
 
@@ -68,7 +68,7 @@ if __name__ == '__main__':
 ## Contribution & Streak:
 ![snake gif](https://github.com/rajput-hemant/rajput-hemant/blob/output/github-contribution-grid-snake.gif)
 <p align="center" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=rajput-hemant">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=AyushSharma3566">
 </p> 
 <p align="center">
 <img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
