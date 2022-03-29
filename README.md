@@ -32,6 +32,7 @@ if __name__ == '__main__':
 ```
 ## See me at:
 <a href="https://www.codechef.com/users/ayush3566"> <img align="left" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> </a>
+<a href="https://www.leetcode.com/Ayush_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_sharma_z" height="30" width="40" /></a>
 <br> <br>
 
 <div align="center">
