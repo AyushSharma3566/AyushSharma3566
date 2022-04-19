@@ -5,7 +5,8 @@
 Heya! I'm Ayush Sharma, A Sophomore student currently pursuing B.TECH from GLA University Mathura, India ❤️
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunishka-30&label=Profile%20views&color=0e75b6&style=flat" alt="sunishka-30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSharma3566&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSharma3566" /> </p>
+
   ## Languages and Tools:
   
 <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
