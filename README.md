@@ -1,6 +1,5 @@
-<h1 align="center">
-  <b>Ayush Sharma</b>
-</h1>
+
+<img src="Ayush sharma.png" alt="Myself" width="1600" height="470">
 
 Heya! I'm Ayush Sharma, A Sophomore student currently pursuing B.TECH from GLA University Mathura, India ❤️
 
