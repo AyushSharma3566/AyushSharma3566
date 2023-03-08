@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
+<h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Ayush Sharma</h1>
 <h3 align="center">Bridging the gap between theory and practice: Engineering student exploring the world of coding</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
