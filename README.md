@@ -6,9 +6,8 @@
   
   <br>
 
-- 🔭 I’m currently studying at **GLA University**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Java, OOPS , frontend**
 
